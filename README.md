@@ -1,7 +1,7 @@
 # ITMO-labs
 Лабораторные работы и задания ИТМО, 2 семестр, "Проектирование и анализ языков веб-решений"
 
-[Здесь будет ссылка на GitHub Pages](# "Пока тут заглушка")
+[Здесь будет ссылка на GitHub Pages](https://marijunior.github.io/ITMO-labs/ "Пока тут нерабочая ссылка")
 
 ## Задания
 
@@ -10,10 +10,10 @@
 [Задание](https://kodaktor.ru/g/xsl_intro)
 
 * Часть 1 (MathJax)
-    + [Демонстрация](bonfires/XSL/task-1/index.xml)
+    + [Демонстрация](https://marijunior.github.io/ITMO-labs/bonfires/XSL/task-1/index.xml)
     + [Исходный код](bonfires/XSL/task-1)
 * Часть 2 (SVG)
-    + [Демонстрация](bonfires/XSL/task-2/index.xml)
+    + [Демонстрация](https://marijunior.github.io/ITMO-labs/bonfires/XSL/task-2/index.xml)
     + [Исходный код](bonfires/XSL/task-1)
 
 ## Лабораторные работы
