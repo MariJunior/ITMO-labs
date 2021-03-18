@@ -9,9 +9,9 @@
 
 * Часть 1 (MathJax)
     + [Демонстрация](https://marijunior.github.io/ITMO-labs/bonfires/XSL/task-1/index.xml)
-    + [Исходный код](bonfires/XSL/task-1)
+    + [Исходный код](https://github.com/MariJunior/ITMO-labs/tree/main/bonfires/XSL/task-1)
 * Часть 2 (SVG)
     + [Демонстрация](https://marijunior.github.io/ITMO-labs/bonfires/XSL/task-2/index.xml)
-    + [Исходный код](bonfires/XSL/task-1)
+    + [Исходный код](https://github.com/MariJunior/ITMO-labs/tree/main/bonfires/XSL/task-2)
 
 ## Лабораторные работы
